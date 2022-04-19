@@ -35,5 +35,5 @@ What you should learn from this project:
 ## Author
 
 - [![](https://github.com/Sun3350.png?size=10)](https://github.com/Sun3350)  Ayomide Isaac
-- [![](https://github.com/adekeyeadeniyi.png?size=10)](https://github.com/adekeyeadeniyi)  Adekeye Emmanuel  
+- [![](https://github.com/adekeyeadeniyi.png?size=50)](https://github.com/adekeyeadeniyi)  Adekeye Emmanuel  
 
